@@ -2,7 +2,7 @@
 
 ## Nostr Resources
  - More resources at [awesome-nostr](https://raw.githubusercontent.com/aljazceru/awesome-nostr/).
- - A guide to Nostr [A guide to Nostr](https://nostr.guide)
+ - [A guide to Nostr](https://nostr.guide) for additional information.
 
 
 ## Public Directory of known Nostr Addresses 
