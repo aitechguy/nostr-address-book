@@ -441,6 +441,7 @@
 |Ken Swymer                                      |@ken_swymer     |145           |npub18sch5f5cg5pa3y2f45urm3agpmrfksqtxnk0n3k7z97rfgn02r7savsz9z        |https://twitter.com/ken_swymer     |
 |b_xt_r                                          |@b_xt_r         |141           |npub1m6cphmg6wxhflvgyvw4499tpflfrux32424f5z5w0dwg8rd2mazqa6msm3        |https://twitter.com/b_xt_r         |
 |Zeeland                                         |@mhorck         |128           |npub1j9jhvm058mdn9ratsq5uh0u6p53al72qn6y6en9n4klkhdhfjayswc09ha        |https://twitter.com/mhorck         |
+|GaloisField                                     |@Blockcryptology| 118          |npub1rcmnvhhnrylm805ynwcnnte8uq8aen6nu7d2e33gwdrqy7fhzgkqwfct0w        |https://twitter.com/Blockcryptology|
 |CryptoCat                                       |@CryptoC58828499|116           |npub1w9hg7ujwppxv54edq07esnzhe8hflu6x60vwpcd3j2l89vq7qqas77mvql        |https://twitter.com/CryptoC58828499|
 |Justin Petsche                                  |@justinpetsche  |111           |npub1sg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q0uf63m        |https://twitter.com/justinpetsche  |
 |Matth                                           |@matthloos      |108           |npub1wnkgsjrsnxh9fc604duyc0enu285j54hvkjere7hfcne7dz3ny0sxncy5a        |https://twitter.com/matthloos      |
