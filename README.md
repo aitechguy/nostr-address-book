@@ -446,3 +446,4 @@
 |Matth                                           |@matthloos      |108           |npub1wnkgsjrsnxh9fc604duyc0enu285j54hvkjere7hfcne7dz3ny0sxncy5a        |https://twitter.com/matthloos      |
 |Lori McClurg, FNTP                              |@lorimcclurg    |100           |npub1nutvdktre6ryh75s35xttqksq734nvw5z3kq8zzc8qkf28vgg0gsedv9ry        |https://twitter.com/lorimcclurg    |
 |Andrea Otto                                     |@otto_biography |100           |npub1tl63agqgc9ghyty7w9myuql0gadcp2jzpgdtxckylptx4txw5j4qz70zp4        |https://twitter.com/otto_biography |
+|Duc₳teL(D⭕⭕KA-$Tel)                           |@Jrducs         |006           |npub1ts6d6kkdeejm5l2smzu9k685un2pg2x898qhjw8hfem5wcfml8sqqvmav9        |https://twitter.com/jrducs         |
